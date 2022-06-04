@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController,UITextFieldDelegate {
+class firstAnswer: UIViewController,UITextFieldDelegate {
     
     var firstNumber: Int?
     var secondNumber: Int?
